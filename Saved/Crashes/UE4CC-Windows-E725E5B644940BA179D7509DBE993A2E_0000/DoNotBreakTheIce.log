@@ -1,0 +1,476 @@
+﻿Log file open, 02/09/18 05:58:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DoNotBreakTheIce
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1947614478) SRandInit(1947614478).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.158002
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.09-04.58.01:944][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-04.58.01:944][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.09-04.58.01:950][  0]LogInit: Computer: SEVEN-COMMUNITY
+[2018.02.09-04.58.01:950][  0]LogInit: User: DEVPLUS
+[2018.02.09-04.58.01:950][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.09-04.58.01:950][  0]LogInit: High frequency timer resolution =4.101572 MHz
+[2018.02.09-04.58.01:950][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.02.09-04.58.01:950][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.09-04.58.01:950][  0]LogMemory: Process Physical Memory: 280.68 MB used, 280.68 MB peak
+[2018.02.09-04.58.01:950][  0]LogMemory: Process Virtual Memory: 275.80 MB used, 275.80 MB peak
+[2018.02.09-04.58.01:950][  0]LogMemory: Physical Memory: 6103.59 MB used,  10238.26 MB free, 16341.85 MB total
+[2018.02.09-04.58.01:950][  0]LogMemory: Virtual Memory: 734.89 MB used,  10238.26 MB free, 134217728.00 MB total
+[2018.02.09-04.58.02:056][  0]LogInit: Using OS detected language (fr-FR).
+[2018.02.09-04.58.02:056][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.02.09-04.58.02:059][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.02.09-04.58.02:060][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.02.09-04.58.02:627][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.09-04.58.02:661][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.02.09-04.58.02:661][  0]LogD3D11RHI:       8086/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.02.09-04.58.02:663][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.09-04.58.02:663][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.09-04.58.02:663][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.09-04.58.02:669][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.09-04.58.02:669][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.09-04.58.02:669][  0]LogWindows: EnumDisplayDevices:
+[2018.02.09-04.58.02:670][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.02.09-04.58.02:670][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.02.09-04.58.02:670][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.09-04.58.02:670][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.02.09-04.58.02:670][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.09-04.58.02:670][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.02.09-04.58.02:670][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.09-04.58.02:670][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.09-04.58.02:670][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.02.09-04.58.02:694][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.09-04.58.02:709][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.09-04.58.02:711][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (F:/Epic Games Store/DoNotBreakTheIce/Intermediate/Shaders/WorkingDirectory/15020/).
+[2018.02.09-04.58.02:711][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/'.
+[2018.02.09-04.58.02:711][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.09-04.58.03:395][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.09-04.58.03:435][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.09-04.58.03:472][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.09-04.58.03:508][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.09-04.58.03:544][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.09-04.58.03:579][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.09-04.58.03:615][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.09-04.58.03:654][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.09-04.58.03:687][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.09-04.58.03:724][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.09-04.58.03:760][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.09-04.58.03:795][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.09-04.58.03:834][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.09-04.58.03:870][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.09-04.58.03:905][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.09-04.58.03:976][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.09-04.58.03:976][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.09-04.58.04:004][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.09-04.58.04:075][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.09-04.58.04:094][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.09-04.58.04:132][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.09-04.58.04:168][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.09-04.58.04:205][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.09-04.58.04:240][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.09-04.58.04:240][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.09-04.58.04:559][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.09-04.58.04:651][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/DEVPLUS/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.09-04.58.04:652][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DEVPLUS/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.02.09-04.58.04:652][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Epic Games Store/DoNotBreakTheIce/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.09-04.58.04:652][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.09-04.58.04:652][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Epic Games Store/DoNotBreakTheIce/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.09-04.58.04:652][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.09-04.58.04:665][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.09-04.58.04:678][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.09-04.58.04:686][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.09-04.58.04:687][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.09-04.58.04:688][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-04.58.04:688][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.09-04.58.04:927][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
+[2018.02.09-04.58.05:007][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.09-04.58.05:286][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.09-04.58.05:314][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.09-04.58.05:314][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.09-04.58.05:314][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.09-04.58.05:314][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.09-04.58.05:314][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.09-04.58.05:315][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.02.09-04.58.05:703][  0]LogNetVersion: DoNotBreakTheIce , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1044260979)
+[2018.02.09-04.58.05:866][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.015781 seconds
+[2018.02.09-04.58.05:871][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.02.09-04.58.05:871][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2018.02.09-04.58.05:871][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.09-04.58.05:907][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.09-04.58.08:033][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.09-04.58.08:063][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.09-04.58.08:577][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.09-04.58.08:895][  0]SourceControl: Source control is disabled
+[2018.02.09-04.58.09:612][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.09-04.58.09:792][  0]LogOcInput: OculusInput pre-init called
+[2018.02.09-04.58.09:984][  0]LogEngine: Initializing Engine...
+[2018.02.09-04.58.09:985][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.09-04.58.10:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.09-04.58.10:198][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.09-04.58.10:295][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.09-04.58.10:302][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-04.58.10:360][  0]LogInit: FAudioDevice initialized.
+[2018.02.09-04.58.10:456][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/DEVPLUS/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.02.09-04.58.10:472][  0]LogInit: Texture streaming: Enabled
+[2018.02.09-04.58.10:545][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.09-04.58.10:698][  0]LogInit: Transaction tracking system initialized
+[2018.02.09-04.58.10:916][  0]BlueprintLog: New page: Editor Load
+[2018.02.09-04.58.11:524][  0]LocalizationService: Localization service is disabled
+[2018.02.09-04.58.12:200][  0]LogConsoleResponse: Display: 
+[2018.02.09-04.58.12:357][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.09-04.58.12:357][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.09-04.58.12:357][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.09-04.58.13:096][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games Store/DoNotBreakTheIce/Content/' took 0.01s
+[2018.02.09-04.58.13:096][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.09-04.58.13:097][  0]LightingResults: New page: Lighting Build
+[2018.02.09-04.58.13:130][  0]MapCheck: New page: Map Check
+[2018.02.09-04.58.13:130][  0]LightingResults: New page: Lighting Build
+[2018.02.09-04.58.13:280][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.09-04.58.13:287][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.09-04.58.13:297][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.09-04.58.13:359][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.032ms to complete.
+[2018.02.09-04.58.13:359][  0]LogFileHelpers: Loading map 'Template_Default' took 0.263
+[2018.02.09-04.58.13:502][  0]LogCollectionManager: Loaded 0 collections in 0.001190 seconds
+[2018.02.09-04.58.13:569][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games Store/DoNotBreakTheIce/Saved/Collections/' took 0.01s
+[2018.02.09-04.58.13:569][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games Store/DoNotBreakTheIce/Content/Developers/DEVPLUS/Collections/' took 0.01s
+[2018.02.09-04.58.13:569][  0]LogFileCache: Scanning file cache for directory 'F:/Epic Games Store/DoNotBreakTheIce/Content/Collections/' took 0.01s
+[2018.02.09-04.58.13:569][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.09-04.58.13:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0062 seconds. Added 2386 classes and 500 folders.
+[2018.02.09-04.58.13:620][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.09-04.58.13:660][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.09-04.58.13:690][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.09-04.58.13:742][  0]LogSlate: Took 0.000855 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.09-04.58.13:745][  0]LogSlate: Took 0.001183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.09-04.58.13:751][  0]LogSlate: Took 0.000610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.09-04.58.13:832][  0]LogRenderer: Reallocating scene render targets to support 1192x612 Format 9 NumSamples 1 (Frame:1).
+[2018.02.09-04.58.13:974][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.09-04.58.13:975][  0]LogLoad: (Engine Initialization) Total time: 13.75 seconds
+[2018.02.09-04.58.13:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.09-04.58.13:975][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.09-04.58.14:328][  0]LogAssetRegistry: Asset discovery search completed in 9.4233 seconds
+[2018.02.09-04.58.14:329][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.09-04.58.14:329][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.02.09-04.58.14:331][  0]SourceControl: On branch master
+[2018.02.09-04.58.14:331][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.02.09-04.58.14:331][  0]SourceControl: Changes not staged for commit:
+[2018.02.09-04.58.14:331][  0]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.02.09-04.58.14:331][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.09-04.58.14:331][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.02.09-04.58.14:331][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.02.09-04.58.14:331][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.02.09-04.58.14:331][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.02.09-04.58.14:331][  0]SourceControl: 	modified:   Saved/Logs/DoNotBreakTheIce.log
+[2018.02.09-04.58.14:331][  0]SourceControl: Untracked files:
+[2018.02.09-04.58.14:331][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.09-04.58.14:331][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-1D6FE3E74DCBC906112189B8952B8129/
+[2018.02.09-04.58.14:331][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-E725E5B644940BA179D7509DBE993A2E/
+[2018.02.09-04.58.14:331][  0]SourceControl: 	Saved/Config/WorldState/
+[2018.02.09-04.58.14:331][  0]SourceControl: 	Saved/Logs/DoNotBreakTheIce-backup-2018.02.08-23.44.05.log
+[2018.02.09-04.58.14:331][  0]SourceControl: 	Saved/Logs/DoNotBreakTheIce-backup-2018.02.09-05.58.00.log
+[2018.02.09-04.58.14:331][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.02.09-04.58.14:331][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.02.09-04.58.14:373][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-04.59.53:611][875]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-04.59.53:675][875]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Ue4Jam\Assets\fbx\IceCube.FBX)
+[2018.02.09-04.59.53:687][875]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.02.09-04.59.53:687][875]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.02.09-04.59.53:687][875]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.02.09-04.59.53:687][875]LogFbx: ItemName: Model, ItemCount : 1
+[2018.02.09-04.59.53:687][875]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.02.09-04.59.53:691][875]LogFbx: Loading FBX Scene from F:\Ue4Jam\Assets\fbx\IceCube.FBX
+[2018.02.09-04.59.53:718][875]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.09-04.59.56:168][875]LogFbx: Loading FBX Scene from F:\Ue4Jam\Assets\fbx\IceCube.FBX
+[2018.02.09-04.59.56:172][875]LogFbx: FBX Scene Loaded Succesfully
+[2018.02.09-04.59.56:173][875]LogStaticMesh: Building static mesh IceCube...
+[2018.02.09-04.59.56:173][875]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/IceCube.IceCube
+[2018.02.09-04.59.58:644][159]LogActorFactory: Actor Factory created IceCube
+[2018.02.09-04.59.59:442][251]LogActorFactory: Actor Factory created IceCube
+[2018.02.09-04.59.59:931][252]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2018.02.09-05.00.00:898][366]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.09-05.00.00:909][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.09-05.00.00:909][366]PIE: New page: PIE session: Untitled_1 (Feb 9, 2018, 7:00:00 AM)
+[2018.02.09-05.00.00:909][366]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.02.09-05.00.00:910][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001242s)
+[2018.02.09-05.00.00:911][366]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.09-05.00.00:911][366]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2018.02.09-05.00.00:911][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002276s)
+[2018.02.09-05.00.00:921][366]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.09-05.00.00:931][366]LogInit: FAudioDevice initialized.
+[2018.02.09-05.00.00:976][366]LogLoad: Game class is 'GameModeBase'
+[2018.02.09-05.00.00:979][366]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2018.02.09-06.00.00
+[2018.02.09-05.00.00:979][366]LogWorld: Bringing up level for play took: 0.001251
+[2018.02.09-05.00.01:008][366]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.02.09-05.00.01:009][366]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.777
+[2018.02.09-05.00.47:657][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/IceCube" FILE="F:/Epic Games Store/DoNotBreakTheIce/Content/Assets/IceCube.uasset" SILENT=true
+[2018.02.09-05.00.47:665][846]LogSavePackage: Save=7.35ms
+[2018.02.09-05.00.47:665][846]LogSavePackage: Moving 'F:/Epic Games Store/DoNotBreakTheIce/Saved/IceCube5947560F4E470463F9E473B7A2880662.tmp' to 'F:/Epic Games Store/DoNotBreakTheIce/Content/Assets/IceCube.uasset'
+[2018.02.09-05.00.47:666][846]LogSavePackage: Display: Finished SavePackage F:/Epic Games Store/DoNotBreakTheIce/Content/Assets/IceCube.uasset
+[2018.02.09-05.01.26:240][567]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.09-05.01.26:284][567]SourceControl: [master 1691b9f] Add IceCube in assets folder
+[2018.02.09-05.01.26:284][567]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.09-05.01.26:284][567]SourceControl:  create mode 100644 Content/Assets/IceCube.uasset
+[2018.02.09-05.01.26:292][567]SourceControl: Commited [master 1691b9f] Add IceCube in assets folder.
+[2018.02.09-05.01.45:667][616]MapCheck: New page: Map Check
+[2018.02.09-05.01.45:715][616]Cmd: MAP REBUILD ALLVISIBLE
+[2018.02.09-05.01.45:715][616]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.02.09-05.01.45:877][616]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.02.09-05.01.45:920][616]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultMaterial, compiling. 
+[2018.02.09-05.01.45:925][616]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.02.09-05.01.47:486][616]TextureStreamingBuild: Display: Compiling optional shaders took 1.624 seconds.
+[2018.02.09-05.01.47:494][616]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2018.02.09-05.01.47:512][616]TextureStreamingBuild: Display: Build Texture Streaming took 0.018 seconds.
+[2018.02.09-05.01.47:530][616]LightingResults: New page: Lighting Build - Feb 9, 2018, 7:01:47 AM
+[2018.02.09-05.01.47:629][616]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.09-05.01.47:734][616]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.09-05.01.47:749][616]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.09-05.01.48:265][616]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.09-05.01.48:265][616]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15020
+[2018.02.09-05.01.51:266][616]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.02.09-05.01.51:266][616]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.09-05.01.51:266][616]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.09-05.01.51:266][616]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.09-05.01.51:266][616]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.09-05.01.51:266][616]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.09-05.01.51:449][616]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.02.09-05.01.51:449][616]MapCheck: New page: Untitled_1 - Feb 9, 2018, 7:01:51 AM
+[2018.02.09-05.01.51:456][616]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.02.09-05.01.51:501][616]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 52.724ms to complete.
+[2018.02.09-05.01.51:525][616]LogEditorBuildUtils: Build time 0:05
+[2018.02.09-05.01.51:555][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2018.02.09-05.01.51:562][616]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2018.02.09-05.01.51:670][617]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.02.09-05.01.51:676][617]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2018.02.09-05.01.53:384][680]Job is a success!
+[2018.02.09-05.01.53:477][681]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2018.02.09-05.01.53:477][681]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2018.02.09-05.01.53:477][681]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.02.09-05.01.53:477][681]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.02.09-05.01.53:477][681]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.02.09-05.01.53:477][681]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2018.02.09-05.01.53:527][681]Lightmass on SEVEN-COMMUNITY: 646 ms total, 80 ms importing, 4 ms setup, 273 ms photons, 255 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 1.62 sec total, 199 ms processing.
+[2018.02.09-05.01.53:562][681]LogStaticLightingSystem: Illumination: 5.99 sec (17 ms encoding lightmaps, 7 ms encoding shadowmaps)
+[2018.02.09-05.01.53:562][681]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.02.09-05.01.53:562][681]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.09-05.01.54:265][681]DumpUnbuiltLightIteractions
+[2018.02.09-05.01.54:265][681]Lights with unbuilt interactions: 0
+[2018.02.09-05.01.54:266][681]
+[2018.02.09-05.01.54:266][681]Primitives with unbuilt interactions: 0
+[2018.02.09-05.01.54:278][682]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.09-05.01.54:278][682]MapCheck: New page: Untitled_1 - Feb 9, 2018, 7:01:54 AM
+[2018.02.09-05.01.54:324][682]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.189ms to complete.
+[2018.02.09-05.01.54:383][687]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2018.02.09-05.08.43:625][952]LogSlate: Took 0.000837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.09-05.08.52:618][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="F:/Epic Games Store/DoNotBreakTheIce/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.09-05.08.52:634][ 16]LogSavePackage: Save=16.12ms
+[2018.02.09-05.08.52:634][ 16]LogSavePackage: Moving 'F:/Epic Games Store/DoNotBreakTheIce/Saved/Untitled_1_Auto1ADA91C8A44587B8C7B9E87AB4F4A36AF.tmp' to 'F:/Epic Games Store/DoNotBreakTheIce/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2018.02.09-05.08.52:635][ 16]LogSavePackage: Display: Finished SavePackage F:/Epic Games Store/DoNotBreakTheIce/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2018.02.09-05.08.52:636][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.027
+[2018.02.09-05.08.52:637][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.027
+[2018.02.09-05.18.52:516][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.009
+[2018.02.09-05.28.52:387][784]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.006
+[2018.02.09-05.37.03:440][569]LogMaterial: Missing cached shader map for material Mat_New, compiling. 
+[2018.02.09-05.37.03:544][569]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.02.09-05.37.03:575][569]LogMaterial: Missing cached shader map for material Mat_New, compiling. 
+[2018.02.09-05.37.04:165][569]LogMaterial: Missing cached shader map for material Mat_New, compiling. 
+[2018.02.09-05.37.04:230][569]LogSlate: Took 0.010640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.09-05.37.05:726][618]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.02.09-05.37.05:726][618]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-05.37.05:726][618]MaterialEditorStats: Texture samplers: 1/16
+[2018.02.09-05.37.21:935][486]SourceControl: On branch master
+[2018.02.09-05.37.21:935][486]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.02.09-05.37.21:935][486]SourceControl: Changes not staged for commit:
+[2018.02.09-05.37.21:935][486]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.02.09-05.37.21:935][486]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.02.09-05.37.21:935][486]SourceControl: 	modified:   Intermediate/AssetRegistryCache/c90e3f55.bin
+[2018.02.09-05.37.21:935][486]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.02.09-05.37.21:935][486]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.02.09-05.37.21:935][486]SourceControl: 	modified:   Saved/Autosaves/PackageRestoreData.json
+[2018.02.09-05.37.21:935][486]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.02.09-05.37.21:935][486]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.02.09-05.37.21:935][486]SourceControl: 	modified:   Saved/Logs/DoNotBreakTheIce.log
+[2018.02.09-05.37.21:935][486]SourceControl: Untracked files:
+[2018.02.09-05.37.21:935][486]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.02.09-05.37.21:935][486]SourceControl: 	Saved/Autosaves/Temp/
+[2018.02.09-05.37.21:935][486]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-1D6FE3E74DCBC906112189B8952B8129/
+[2018.02.09-05.37.21:935][486]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-E725E5B644940BA179D7509DBE993A2E/
+[2018.02.09-05.37.21:935][486]SourceControl: 	Saved/Config/WorldState/
+[2018.02.09-05.37.21:935][486]SourceControl: 	Saved/Logs/DoNotBreakTheIce-backup-2018.02.08-23.44.05.log
+[2018.02.09-05.37.21:935][486]SourceControl: 	Saved/Logs/DoNotBreakTheIce-backup-2018.02.09-05.58.00.log
+[2018.02.09-05.37.21:935][486]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.02.09-05.37.22:197][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Mat_IceCube" FILE="F:/Epic Games Store/DoNotBreakTheIce/Content/Materials/Mat_IceCube.uasset" SILENT=true
+[2018.02.09-05.37.22:203][486]LogSavePackage: Save=5.23ms
+[2018.02.09-05.37.22:203][486]LogSavePackage: Moving 'F:/Epic Games Store/DoNotBreakTheIce/Saved/Mat_IceCube49777D6B484A49CEF0D231A3E1DC9EB7.tmp' to 'F:/Epic Games Store/DoNotBreakTheIce/Content/Materials/Mat_IceCube.uasset'
+[2018.02.09-05.37.22:204][486]LogSavePackage: Display: Finished SavePackage F:/Epic Games Store/DoNotBreakTheIce/Content/Materials/Mat_IceCube.uasset
+[2018.02.09-05.37.22:352][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Mat_New" FILE="F:/Epic Games Store/DoNotBreakTheIce/Content/Materials/Mat_New.uasset" SILENT=true
+[2018.02.09-05.37.22:361][486]LogSavePackage: Save=0.67ms
+[2018.02.09-05.37.22:361][486]LogSavePackage: Moving 'F:/Epic Games Store/DoNotBreakTheIce/Saved/Mat_New26C9FA814FE8A7D986A25E9F3A5E890E.tmp' to 'F:/Epic Games Store/DoNotBreakTheIce/Content/Materials/Mat_New.uasset'
+[2018.02.09-05.37.22:362][486]LogSavePackage: Display: Finished SavePackage F:/Epic Games Store/DoNotBreakTheIce/Content/Materials/Mat_New.uasset
+[2018.02.09-05.37.57:275][ 63]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.09-05.37.57:319][ 63]SourceControl: [master 916a974] Change the name of Material to Mat_IceCube
+[2018.02.09-05.37.57:319][ 63]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.09-05.37.57:319][ 63]SourceControl:  create mode 100644 Content/Materials/Mat_IceCube.uasset
+[2018.02.09-05.37.57:329][ 63]SourceControl: Commited [master 916a974] Change the name of Material to Mat_IceCube.
+[2018.02.09-05.37.58:821][227]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.37.58:878][227]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.37.58:887][227]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.38.00:170][276]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.02.09-05.38.00:170][276]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-05.38.00:170][276]MaterialEditorStats: Texture samplers: 1/16
+[2018.02.09-05.38.03:848][710]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.38.03:931][711]LogSlate: Took 0.016489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.09-05.38.05:018][804]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.02.09-05.38.05:018][804]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-05.38.05:018][804]MaterialEditorStats: Texture samplers: 1/16
+[2018.02.09-05.39.58:094][770]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.009
+[2018.02.09-05.49.58:944][296]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.007
+[2018.02.09-05.54.57:217][239]LogMaterialEditor: Applying material Mat_IceCube
+[2018.02.09-05.54.57:569][239]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.54.57:604][239]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.54.57:620][239]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.54.57:646][239]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_IceCube, compiling. 
+[2018.02.09-05.54.58:510][239]TextureStreamingBuild: Display: Compiling optional shaders took 0.870 seconds.
+[2018.02.09-05.55.00:145][428]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.02.09-05.55.00:145][428]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.02.09-05.55.00:145][428]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.09-05.58.31:991][746]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Ue4Jam\Textures\27fa7810c6389e3fbb82d60119439d2a.jpg)
+[2018.02.09-05.58.32:049][746]LogTexture: Display: Building textures: 27fa7810c6389e3fbb82d60119439d2a (AutoDXT, 1024X1024)
+[2018.02.09-05.58.46:380][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Ice_mask" FILE="F:/Epic Games Store/DoNotBreakTheIce/Content/Textures/Ice_mask.uasset" SILENT=true
+[2018.02.09-05.58.46:488][714]LogSavePackage: Save=108.08ms
+[2018.02.09-05.58.46:488][714]LogSavePackage: Moving 'F:/Epic Games Store/DoNotBreakTheIce/Saved/Ice_maskE1801B804F657112DF227FB3B04FC258.tmp' to 'F:/Epic Games Store/DoNotBreakTheIce/Content/Textures/Ice_mask.uasset'
+[2018.02.09-05.58.46:489][714]LogSavePackage: Display: Finished SavePackage F:/Epic Games Store/DoNotBreakTheIce/Content/Textures/Ice_mask.uasset
+[2018.02.09-05.58.51:278][127]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.02.09-05.59.04:466][672]LogTexture: Display: Building textures: Ice_mask (AutoDXT, 1024X1024)
+[2018.02.09-05.59.04:823][672]LogFileManager: Error: Error writing to file: C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/temp.2A1FE2074A7E9FD5120B46AFAC42D15B (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.04:823][672]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/temp.2A1FE2074A7E9FD5120B46AFAC42D15B!
+[2018.02.09-05.59.04:825][672]LogFileManager: Error: Error writing to file: C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/temp.CDE06C78464049A0FF27068E93CA1DBC (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.04:825][672]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/1/temp.CDE06C78464049A0FF27068E93CA1DBC!
+[2018.02.09-05.59.04:834][673]LogDerivedDataCache: Warning: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_814DCC3DC72143F49509781513CB9855_AutoDXT_75F2FBAC4BDF6E6B12E13D9E32902__600CF8627C49CA1305CEC313EC17B846A9955742.
+[2018.02.09-05.59.20:078][499]LogTexture: Display: Building textures: Ice_mask (DXT1, 1024X1024)
+[2018.02.09-05.59.20:441][500]LogFileManager: Error: Error writing to file: C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/temp.5F5F3DAC41266CD8A5F69FA78CF94178 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.20:441][500]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/temp.5F5F3DAC41266CD8A5F69FA78CF94178!
+[2018.02.09-05.59.20:441][500]LogFileManager: Error: Error writing to file: C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/temp.ED69EAAB488E6AAA3F7ACD998AFE9B9A (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.20:441][500]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/DEVPLUS/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/temp.ED69EAAB488E6AAA3F7ACD998AFE9B9A!
+[2018.02.09-05.59.20:441][500]LogDerivedDataCache: Warning: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_75F2FBAC4BDF6E6B12E13D9E32902A91__56A73AD7F56EC035494294CEE1A5CFA807E11FD7.
+[2018.02.09-05.59.26:155][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Ice_mask" FILE="F:/Epic Games Store/DoNotBreakTheIce/Content/Textures/Ice_mask.uasset" SILENT=true
+[2018.02.09-05.59.26:180][180]LogSavePackage: Save=22.34ms
+[2018.02.09-05.59.26:180][180]LogSavePackage: Moving 'F:/Epic Games Store/DoNotBreakTheIce/Saved/Ice_mask44E293224413403DB4BEF6A63FDAA8C0.tmp' to 'F:/Epic Games Store/DoNotBreakTheIce/Content/Textures/Ice_mask.uasset'
+[2018.02.09-05.59.26:182][180]LogSavePackage: Display: Finished SavePackage F:/Epic Games Store/DoNotBreakTheIce/Content/Textures/Ice_mask.uasset
+[2018.02.09-05.59.29:824][609]LogMaterial: Missing cached shader map for material Mat_IceCube, compiling. 
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error flushing file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error flushing file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error writing to file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error writing to file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error flushing file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error flushing file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error writing to file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:841][609]LogFileManager: Error: Error flushing file: C:/Users/DEVPLUS/AppData/Local/Temp/UnrealShaderWorkingDir/FEBC179944AAA8C60ECB6A9AF0B849B7/0616C56C0463175D47CA3ADA08CD20A50 (Espace insuffisant sur le disque.)
+[2018.02.09-05.59.29:861][610]LogWindows: Windows GetLastError: L’opération a réussi. (0)
